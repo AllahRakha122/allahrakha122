@@ -1,10 +1,9 @@
 # 💫 About Me
+🔭 Senior Full Stack & Mobile App Developer building scalable SaaS platforms, cross-platform mobile apps, and high-performance backend systems.
 
-🔭 Senior Full Stack Developer building scalable SaaS platforms, mobile apps, and high-performance backend systems.
+👯 Looking to collaborate on SaaS platforms, mobile applications, and AI-powered solutions solving real-world problems.
 
-👯 Looking to collaborate on SaaS platforms, AI-powered applications, and scalable backend solutions.
-
-🤝 Open to collaboration on AI integrations, data pipelines, and large-scale distributed systems.
+🤝 Open to collaboration on AI integrations, data pipelines, and scalable distributed systems.
 
 🌱 Currently expanding expertise in AI/ML systems, cloud-native infrastructure, and scalable application architectures.
 
@@ -27,7 +26,6 @@
 # 💻 Tech Stack
 
 ## 🧠 Programming Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -40,32 +38,29 @@
 
 ---
 
-## ⚙️ Frameworks & Backend
-
+## ⚙️ Backend & Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter_Backend_Integration-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
 ## 🎨 Frontend Development
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ---
 
 ## 🤖 AI & Machine Learning
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -77,18 +72,16 @@
 
 ---
 
-## 🗄️ Databases
-
+## 🗄️ Databases & Realtime Services
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Realtime-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-## ☁️ DevOps & Cloud
-
+## ☁️ DevOps, Cloud & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge)
@@ -96,38 +89,6 @@
 ![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge)
+![Android Build & Deploy](https://img.shields.io/badge/Android_App_Deployment-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD_Pipelines-000000?style=for-the-badge)
 
----
-
-## 🔌 APIs & System Integration
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
-![JWT Auth](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge)
-![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-000000?style=for-the-badge)
-![Model Deployment](https://img.shields.io/badge/Model_Deployment-000000?style=for-the-badge)
-
----
-
-## 🧠 Engineering Practices
-
-![Agile](https://img.shields.io/badge/Agile-000000?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-000000?style=for-the-badge)
-![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-000000?style=for-the-badge)
-
----
-
-# 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
-
----
-
-⭐️ From [USERNAME](https://github.com/USERNAME)
