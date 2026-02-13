@@ -13,11 +13,17 @@
 ⚡ Fun fact: I enjoy debugging complex production issues — the harder the bug, the more satisfying the fix!
 
 ---
-
 ## 🌐 Socials
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<a href="https://facebook.com/syedgoharali2" target="_blank"><img src="./assets/icons/SVG/Color/Facebook.svg" width="50" alt="Facebook" title="Facebook" /></a> <a href="https://stackoverflow.com/users/27827759/gohar-ali" target="_blank"><img src="./assets/icons/SVG/Color/Stackoverflow.svg" width="50" alt="Stackoverflow" title="Stackoverflow" /></a> <a href="https://join.skype.com/invite/HlIbmp4lGljp" target="_blank"><img src="./assets/icons/SVG/Color/Skype.svg" width="50" alt="Skype" title="Skype" /></a> <a href="https://discordapp.com/users/1215914039259959369" target="_blank"><img src="./assets/icons/SVG/Color/Discord.svg" width="50" alt="Discord" title="Discord" style="" /></a> <a href="https://www.reddit.com/user/goharali2" target="_blank"><img src="./assets/icons/SVG/Color/Reddit.svg" width="50" alt="Reddit" title="Reddit" /></a> <a href="https://wa.me/+923414266747" target="_blank"><img src="./assets/icons/SVG/Color/WhatsApp.svg" width="50" alt="WhatsApp" title="WhatsApp" /></a> <a href="mailto:gohar.freelancer@gmail.com" target="_blank"><img src="./assets/icons/SVG/Color/Gmail.svg" width="50" alt="Gmail" title="Gmail" /></a> <a href="https://linktr.ee/syedgoharali" target="_blank"><img src="./assets/icons/PNG/Color/linktree.png" width="50" alt="Linktree" title="Linktree" /></a>
+<!-- <a href="https://facebook.com/syedgoharali2" target="_blank"><img src="./assets/icons/SVG/Color/Facebook.svg" width="50" alt="Facebook" title="Facebook" /></a> -->
+ <!-- <a href="https://stackoverflow.com/users/27827759/gohar-ali" target="_blank"><img src="./assets/icons/SVG/Color/Stackoverflow.svg" width="50" alt="Stackoverflow" title="Stackoverflow" /></a> -->
+  <a href="https://us05web.zoom.us/launch/chat?src=direct_chat_link&email=jakegary988@gmail.com" target="_blank"><img src="./assets/icons/SVG/Color/Zoom.svg" width="50" alt="Zoom" title="Zoom" /></a> 
+  <!-- <a href="https://discordapp.com/users/1215914039259959369" target="_blank"><img src="./assets/icons/SVG/Color/Discord.svg" width="50" alt="Discord" title="Discord" style="" /></a>
+   <a href="https://www.reddit.com/user/goharali2" target="_blank"><img src="./assets/icons/SVG/Color/Reddit.svg" width="50" alt="Reddit" title="Reddit" /></a> -->
+    <!-- <a href="https://wa.me/+923414266747" target="_blank"><img src="./assets/icons/SVG/Color/WhatsApp.svg" width="50" alt="WhatsApp" title="WhatsApp" /></a>  -->
+    <a href="jakegary988@gmail.com" target="_blank"><img src="./assets/icons/SVG/Color/Gmail.svg" width="50" alt="Gmail" title="Gmail" /></a>
+     <a href="https://www.linkedin.com/in/allah-rakha-software-eng/" target="_blank"><img src="./assets/icons/PNG/Color/LinkedIn.png" width="50" alt="LinkedIn" title="LinkedIn" /></a>
 </div>
 
 # 💻 Tech Stack
