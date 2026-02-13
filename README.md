@@ -15,6 +15,7 @@
 ---
 ## 🌐 Socials
 
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
 <!-- <a href="https://facebook.com/syedgoharali2" target="_blank"><img src="./assets/icons/SVG/Color/Facebook.svg" width="50" alt="Facebook" title="Facebook" /></a> -->
  <!-- <a href="https://stackoverflow.com/users/27827759/gohar-ali" target="_blank"><img src="./assets/icons/SVG/Color/Stackoverflow.svg" width="50" alt="Stackoverflow" title="Stackoverflow" /></a> -->
@@ -23,8 +24,9 @@
    <a href="https://www.reddit.com/user/goharali2" target="_blank"><img src="./assets/icons/SVG/Color/Reddit.svg" width="50" alt="Reddit" title="Reddit" /></a> -->
     <!-- <a href="https://wa.me/+923414266747" target="_blank"><img src="./assets/icons/SVG/Color/WhatsApp.svg" width="50" alt="WhatsApp" title="WhatsApp" /></a>  -->
     <a href="jakegary988@gmail.com" target="_blank"><img src="./assets/icons/SVG/Color/Gmail.svg" width="50" alt="Gmail" title="Gmail" /></a>
-     <a href="https://www.linkedin.com/in/allah-rakha-software-eng/" target="_blank"><img src="./assets/icons/PNG/Color/LinkedIn.png" width="50" alt="LinkedIn" title="LinkedIn" /></a>
+     <a href="https://www.linkedin.com/in/allah-rakha-software-eng/" target="_blank"><img src="./assets/icons/PNG/Color/LinkedIN.png" width="50" alt="LinkedIn" title="LinkedIn" /></a>
 </div>
+
 
 # 💻 Tech Stack
 
